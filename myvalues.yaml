@@ -1,0 +1,5 @@
+replicaCount: 3
+namespace: kube-system
+image:
+  repository: nginx
+  tag: 1.7.9
